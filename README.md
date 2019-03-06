@@ -1,7 +1,9 @@
 # Shooting_Scroller
-A vertical shooting scroller game in [python-pygame](https://www.pygame.org/news)
+A vertical shooting scroller game in [python-pygame](https://www.pygame.org/news).This project was made for fun, and is not intended for commercial use.
+The sprites can be found [here](https://www.spriters-resource.com/arcade/ikariwarriors/sheet/27197/)
 
 ---
+
 
 ## Installation
 1) Download Python's latest version [here](https://www.python.org/)
