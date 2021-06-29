@@ -24,4 +24,4 @@ Return     - Main Menu
 
 ---
 ## Screenshot
-![Alt text](Screenshot.png)
+![Alt text](Screenshot_1.png)
